@@ -1,12 +1,12 @@
-# 📊 Mobile Sales Analysis Dashboard (Power BI)
+# Mobile Sales Analysis Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an interactive Mobile Sales Analysis Dashboard built using Microsoft Power BI. The dashboard helps analyze sales performance, customer behavior, payment methods, product trends, and regional sales across India.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this dashboard is to provide business insights by analyzing:
 
@@ -23,7 +23,7 @@ The objective of this dashboard is to provide business insights by analyzing:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Microsoft Excel
@@ -32,7 +32,7 @@ The objective of this dashboard is to provide business insights by analyzing:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ✔ KPI Cards
 
@@ -61,10 +61,10 @@ The objective of this dashboard is to provide business insights by analyzing:
 
 ---
 
-## 📈 Key Insights
-- 💰 Total Sales: ₹769M
-- 📦 Total Quantity Sold: 19K
-- 🧾 Total Transactions: 4K
+## Key Insights
+- Total Sales: ₹769M
+- Total Quantity Sold: 19K
+- Total Transactions: 4K
 - Apple generated the highest total sales.
 - UPI was the most preferred payment method.
 - Sales peaked during July.
@@ -74,7 +74,7 @@ The objective of this dashboard is to provide business insights by analyzing:
 ---
 
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the repository.
 2. Open **Dashboard.pbix** using Microsoft Power BI Desktop.
@@ -83,13 +83,13 @@ The objective of this dashboard is to provide business insights by analyzing:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="1287" height="730" alt="MyDashboard1" src="https://github.com/user-attachments/assets/17466098-7aee-449c-9bd0-1922ff4a3647" />
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Anshika Mishra**
 
@@ -104,4 +104,4 @@ Skills:
 
 ---
 
-⭐ If you like this project, don't forget to Star the repository.
+If you like this project, don't forget to Star ⭐ the repository.

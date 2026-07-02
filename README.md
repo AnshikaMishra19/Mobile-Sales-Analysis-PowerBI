@@ -62,7 +62,9 @@ The objective of this dashboard is to provide business insights by analyzing:
 ---
 
 ## 📈 Key Insights
-
+- 💰 Total Sales: ₹769M
+- 📦 Total Quantity Sold: 19K
+- 🧾 Total Transactions: 4K
 - Apple generated the highest total sales.
 - UPI was the most preferred payment method.
 - Sales peaked during July.

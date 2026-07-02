@@ -73,18 +73,6 @@ The objective of this dashboard is to provide business insights by analyzing:
 
 ---
 
-## 📂 Repository Structure
-
-```
-Mobile-Sales-Analysis-PowerBI
-│
-├── Dashboard.pbix
-├── Mobile Sales Data.xlsx
-├── Dashboard.png
-└── README.md
-```
-
----
 
 ## 🚀 How to Use
 
